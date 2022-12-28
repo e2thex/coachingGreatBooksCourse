@@ -1,4 +1,4 @@
-# Partner Master Class
+# Partner Great Books Course
 ## Purpose
 The Coaching master Curse is a process for 4 to 6 individuals to improve their ability to be coaches and engage in feedback conversations that can be difficult for leaders
 
