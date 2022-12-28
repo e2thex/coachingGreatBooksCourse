@@ -1,15 +1,15 @@
 # Partner Great Books Course
 ## Purpose
-The Coaching master Curse is a process for 4 to 6 individuals to improve their ability to be coaches and engage in feedback conversations that can be difficult for leaders
+After taking this great books course one should see an improve in their ability to be coach other and their ability to engage in feedback conversations.
 
 ## For Who?
 This course can be valuable to anyone that works with other, but is most valuable for those that are expected to mentor and lead others.  
 
 ## Overview
-This Course consists of an 15-week course reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of 1 1/2 hours a week of direct involvement and practicing during the participant's job.
+This Course consists of an 15-week course reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of 1 1/2 hours a week of direct involvement and practicing during the participant's work and priviate enagagements.
 
 ## Outline
-Each week the group will meeting for a 1 hour meeting with the following agenda
+Each week the group will meeting for a 1 hour meeting with the following agenda:
 
 ### Meeting Agenda
 * How did it go (15 mins)?
