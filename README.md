@@ -1,15 +1,15 @@
 # Partner Great Books Course
 ## Purpose
-After taking this great books course one should see an improve in their ability to be coach other and their ability to engage in feedback conversations.
+After taking this great books course one should see an improvement in their ability to coach others and their ability to engage in feedback conversations.
 
 ## For Who?
-This course can be valuable to anyone that works with other, but is most valuable for those that are expected to mentor and lead others.  
+This course can be valuable to anyone that works with others but is most valuable for those that are expected to mentor and lead others.  
 
 ## Overview
-This Course consists of an 15-week course reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of 1 1/2 hours a week of direct involvement and practicing during the participant's work and priviate enagagements.
+This Course consists of a 15-week course reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of 1 1/2 hours a week of direct involvement and practicing during the participant's work and private engagements.
 
 ## Outline
-Each week the group will meeting for a 1 hour meeting with the following agenda:
+Each week the group will meet for a 1-hour meeting with the following agenda:
 
 ### Meeting Agenda
 * How did it go (15 mins)?
@@ -38,3 +38,5 @@ Each week the group will meeting for a 1 hour meeting with the following agenda:
 | 13     | Difficult Conversations | Improving the identity conversation                        |
 | 14     | Difficult Conversations | Tell the third story                                       |
 | 15     | Difficult Conversations | Final summary                                              |
+
+
