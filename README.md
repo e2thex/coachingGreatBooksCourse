@@ -20,7 +20,7 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
     
     Discuss how practicing the previous chapter went in the week, when we used it, whether it was effective, and what was challenging about practicing.
 
-* Read next section (20 mins)S
+* Read the next section (20 mins)S
 
     Everyone goes to their book and reads the next planned section.  And waits quietly while everyone else finishes
 
