@@ -1,9 +1,9 @@
 # Coaching Great Books Course
 ## Purpose
-After taking this great books course one should see an improvement in their ability to coach others and their ability to engage in feedback conversations, by having instilled new coaching and conversational skills.
+This course aims to introduce best-in-class coaching habits and provide space and community to develop these habits. 
 
 ## For Who?
-This course can be valuable to anyone that works with others but is most valuable for those that are expected to mentor and lead others.  
+This course can be valuable to anyone that works with others but is most valuable for those that are expected to mentor and lead others. People attending the class must be committed to participating. This course will not work well if people are mandated to attend.
 
 ## Why these books?
 
@@ -16,17 +16,30 @@ This Course consists of a 15-week course reading and practicing the lessons from
 Each week the group will meet for a 1-hour meeting with the following agenda:
 
 ### Meeting Agenda
-* How did it go (15 mins)?
+* How did it go (25 mins)?
     
     Discuss how practicing the previous chapter went in the week, when we used it, whether it was effective, and what was challenging about practicing.
 
-* Read the next section (20 mins)S
+* Read the next section (15 mins)
 
     Everyone goes to their book and reads the next planned section.  And waits quietly while everyone else finishes
 
 * Discuss how we will practice in the next week (15 mins).
    
    Discuss how and when we expect to practice our new habit over the week before the next meeting.
+
+### Meeting Facilitator Notes
+* How did it go?
+  * The facilitator should start this section with the simple question, "What's on your mind?" 
+  * The facilitator should allow the conversation to evolve.
+  * The facilitator should look for opportunities to engage with individuals that are not participating.
+* Read the next section
+  * The facilitator should instruct everyone to read the next section.
+  * The facilitator should instruct the participants to notify the group when they are done reading.
+    * One good way to do the notification is for everyone to shut off their camera while they are reading and turn it on when they are back.
+  * The facilitator should also make a shared notetaking space, for people to share thoughts on the reading as they are reading and as they finish
+* Discuss how we will practice in the next week
+  * The facilitator should have everyone skill the shared not taking space and then ask "What's on your mind?" 
 ### Schedule
 
 | Week   | Book                    | Section                                                    |
@@ -46,5 +59,3 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
 | 13     | Difficult Conversations | Improving the identity conversation                        |
 | 14     | Difficult Conversations | Tell the third story                                       |
 | 15     | Difficult Conversations | Final summary                                              |
-
-
