@@ -1,4 +1,4 @@
-# Partner Great Books Course
+# Coaching Great Books Course
 ## Purpose
 After taking this great books course one should see an improvement in their ability to coach others and their ability to engage in feedback conversations, by having instilled new coaching and conversational skills.
 
