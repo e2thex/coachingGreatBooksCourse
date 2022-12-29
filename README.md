@@ -1,12 +1,16 @@
 # Partner Great Books Course
 ## Purpose
-After taking this great books course one should see an improvement in their ability to coach others and their ability to engage in feedback conversations.
+After taking this great books course one should see an improvement in their ability to coach others and their ability to engage in feedback conversations, by having instilled new coaching and conversational skills.
 
 ## For Who?
 This course can be valuable to anyone that works with others but is most valuable for those that are expected to mentor and lead others.  
 
+## Why these books?
+
+Coaching is broken down into two categories coaching for performance and coaching for development. The [Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit) will teach us how to develop habits as well as develop coaching for performance skills.  [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations?ref=nav_sb_ss_1_14) will be used to develop our coaching for performance skills.
+
 ## Overview
-This Course consists of a 15-week course reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of 1 1/2 hours a week of direct involvement and practicing during the participant's work and private engagements.
+This Course consists of a 15-week course reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of an hour a week of direct involvement, as well as, practicing during the participant's work and private engagements.
 
 ## Outline
 Each week the group will meet for a 1-hour meeting with the following agenda:
@@ -16,9 +20,12 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
     
     Discuss how practicing the previous chapter went in the week, when we used it, whether it was effective, and what was challenging about practicing.
 
-* Discuss the next section (30 mins).
+* Read next section (20 mins)
+    Everyone goes to their book and reads the next planned section.  And waits quietly while everyone else finishes
 
-* Discuss how we will practice in the next week (10 mins).
+* Discuss how we will practice in the next week (15 mins).
+   
+   Discuss how and when we expect to practice our new habit over the week before the next meeting.
 ### Schedule
 
 | Week   | Book                    | Section                                                    |
