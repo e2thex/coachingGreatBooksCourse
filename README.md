@@ -12,7 +12,7 @@ Coaching is broken down into two categories coaching for performance and coachin
 ## Overview
 This Course series consists of two 8-week courses reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of an hour a week of direct involvement, as well as, practicing during the participant's work and private engagements.
 
-## Outline
+## Weekly Meetng
 Each week the group will meet for a 1-hour meeting with the following agenda:
 
 ### Meeting Agenda
@@ -28,7 +28,7 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
    
    Discuss how and when we expect to practice our new habit over the week before the next meeting.
 
-### Meeting Facilitator Notes
+### Facilitator Notes
 * How did it go?
   * The facilitator should start this section with the simple question, "What's on your mind?" 
   * The facilitator should allow the conversation to evolve.
@@ -40,6 +40,20 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
   * The facilitator should also make a shared notetaking space, for people to share thoughts on the reading as they are reading and as they finish
 * Discuss how we will practice in the next week
   * The facilitator should have everyone skill the shared not taking space and then ask "What's on your mind?" 
+
+## Asynchronous Channel
+
+Each cohort should also have an asynchronous channel for discussion and shoutouts.  Something along the lines of a slack channel works best. It is recommended to use tooling that the cohort is already using.
+
+### Facilitator Notes
+
+* The facilitator should follow the channel and encourage those that post.
+* The facilitator can use this channel to promote the group daily with questions including but not limited to
+  * Can anyone share an attempt to use [HABIT X]?
+  * How many times did you all use [HABIT X] yesterday?
+  * Can anyone share a challenge with using [HABIT X]?
+  * Can anyone share a success story with [HABIT X]?
+
 ## Courses
 
 ### 101 The Coaching Habit
