@@ -71,7 +71,7 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 | 8      | “What was most useful for you?”                            |
 
 
-### 101 Difficult Conversations
+### 102 Difficult Conversations
 
 #### Schedule
 | Week   | Section                                                    |
