@@ -10,12 +10,12 @@ This course series can be valuable to anyone that works with others but is most 
 Coaching is broken down into two categories coaching for performance and coaching for development. The [Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit) will teach us how to develop habits as well as develop coaching for performance skills.  [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations?ref=nav_sb_ss_1_14) will be used to develop our coaching for performance skills.
 
 ## Overview
-This Course series consists of two 8-week courses reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of an hour a week of direct involvement, as well as, practicing during the participant's work and private engagements.
+This Course series consists of two 8-week courses reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of an hour a week of direct involvement, as well as, practicing during the participant's work and private engagements.  The cohort will work with each other in each week's workshop as well as asynchronously throughout the week.
 
-## Weekly Meetng
-Each week the group will meet for a 1-hour meeting with the following agenda:
+## Weekly Workshop
+Each week the group will meet for a 1-hour workshop with the following agenda:
 
-### Meeting Agenda
+### Agenda
 * How did it go (25 mins)?
     
     Discuss how practicing the previous chapter went in the week, when we used it, whether it was effective, and what was challenging about practicing.
@@ -26,7 +26,7 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
 
 * Discuss how we will practice in the next week (15 mins).
    
-   Discuss how and when we expect to practice our new habit over the week before the next meeting.
+   Discuss how and when we expect to practice our new habits over the week before the next workshop.
 
 ### Facilitator Notes
 * How did it go?
