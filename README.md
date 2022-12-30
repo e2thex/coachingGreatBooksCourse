@@ -62,10 +62,11 @@ Each week the group will meet for a 1-hour meeting with the following agenda:
 #### Schedule
 | Week   | Section                                                    |
 | -----  |------------------------------------------------------------|
-| 1      | Introduction                                               |
-| 2      | The three types of conversation                            |
-| 3      | The learning conversation                                  |
-| 4      | Improving the feelings conversation                        |
-| 5      | Improving the identity conversation                        |
-| 6      | Tell the third story                                       |
-| 7      | Final summary                                              |
+| 1      | The Three Conversations/ Shift to Learning Stance: Stop Arguing About Who's Right          |
+| 2      | Shift to Learning Stance: Adandon Blame                    |
+| 3      | The Feeling Conversation                                   |
+| 4      | The Identity Convesation                                   |
+| 5      | Create a Learning Conversation: Whats Your Purpose         |
+| 6      | Create a Learning Conversation: Begian from the third Story |
+| 7      | Improving the identity conversation                        |
+| 8      | Tell the third story                                       |
