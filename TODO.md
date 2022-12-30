@@ -1,2 +1,0 @@
-- [ ] Format for Section 3
-- [ ] More detail on how we are braking up the reading
