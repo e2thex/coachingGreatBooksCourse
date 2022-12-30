@@ -59,6 +59,7 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 ### 101 The Coaching Habit
 
 #### Schedule
+
 | Week   | Section                                                    |
 | -----  |------------------------------------------------------------|
 | 1      | Introduction                                               |
@@ -74,6 +75,7 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 ### 102 Difficult Conversations
 
 #### Schedule
+
 | Week   | Section                                                    |
 | -----  |------------------------------------------------------------|
 | 1      | Introduction                                               |
