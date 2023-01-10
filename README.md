@@ -1,87 +1,47 @@
-# Coaching Great Books Courses
-## Purpose
-This course series aims to introduce best-in-class coaching habits and provide space and community to develop these habits. 
+## Pitch
 
-## For Who?
-This course series can be valuable to anyone that works with others but is most valuable for those that are expected to mentor and lead others. People attending the classes must be committed to participating. This course series will not work well if people are mandated to attend.
+Let's give our company the reputation of best-in-class coaching. We have many (many) talented leaders, yet the "advice monster" runs rampant. This course will teach the coaching habits we need to build that reputation, and provide the space and community to develop those habits.
 
-## Why these books?
+## Target audience
 
-Coaching is broken down into two categories coaching for performance and coaching for development. The [Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit) will teach us how to develop habits as well as develop coaching for performance skills.  [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations?ref=nav_sb_ss_1_14) will be used to develop our coaching for performance skills.
+It'll be most valuable for mentors and leaders (managers, tech leads, etc.), although anyone who works with people could benefit.
+
+Caveat: attendees must be committed to participating and must be there voluntarily. This course series will not work well if people are mandated to attend.
 
 ## Overview
-This Course series consists of two 8-week courses reading and practicing the lessons from The Coaching Habit and Difficult Conversations.  It involves a commitment of an hour a week of direct involvement, as well as, practicing during the participant's work and private engagements.  The cohort will work with each other in each week's workshop as well as asynchronously throughout the week.
 
-## Weekly Workshop
-Each week the group will meet for a 1-hour workshop with the following agenda:
+The course will last 8 weeks and will be based around reading and practicing the lessons from [The Coaching Habit](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749). Think of it like equal parts book club and group training/accountability. 
 
-### Agenda
-* How did it go (25 mins)?
-    
-    Discuss how practicing the previous chapter went in the week, when we used it, whether it was effective, and what was challenging about practicing.
+There are three components:
 
-* Read the next section (15 mins)
+* Weekly one-hour synchronous workshop with the cohort (see agenda below)
+* Dedicated cohort-specific slack channel for async discussion and check-ins
+* Daily practice of the habits during normal daily work, which will be discussed at the workshop
 
-    Everyone goes to their book and reads the next planned section.  And waits quietly while everyone else finishes
+Each cohort should ideally include 4-6 people (including the facilitator) to keep engagement and psychological safety high.
 
-* Discuss how we will practice in the next week (15 mins).
-   
-   Discuss how and when we expect to practice our new habits over the week before the next workshop.
+## Weekly workshop
 
-### Facilitator Notes
-* How did it go?
-  * The facilitator should start this section with the simple question, "What's on your mind?" 
-  * The facilitator should allow the conversation to evolve.
-  * The facilitator should look for opportunities to engage with individuals that are not participating.
-* Read the next section
-  * The facilitator should instruct everyone to read the next section.
-  * The facilitator should instruct the participants to notify the group when they are done reading.
-    * One good way to do the notification is for everyone to shut off their camera while they are reading and turn it on when they are back.
-  * The facilitator should also make a shared notetaking space, for people to share thoughts on the reading as they are reading and as they finish
-* Discuss how we will practice in the next week
-  * The facilitator should have everyone skill the shared not taking space and then ask "What's on your mind?" 
+Each week the cohort will meet for a 1-hour workshop with the following agenda:
 
-## Asynchronous Channel
+* How did it go? (25 mins) -Discuss how practicing last week's habit went throughout the week, when we used it, whether it was effective, and what was challenging about it.
+* Read the next section (15 mins) -Everyone goes to their book and reads the next planned section. This fixes the "I didn't have time to read" problem.
+* How will we practice over the next week? (15 mins) - Discuss how and when we plan to practice our new habits before the next workshop. Questions or concerns about the habit we just read about can come up here.
 
-Each cohort should also have an asynchronous channel for discussion and shoutouts.  Something along the lines of a slack channel works best. It is recommended to use tooling that the cohort is already using.
+## Schedule (one chapter per week)
 
-### Facilitator Notes
+* Week 1: Introduction
+* Week 2: "What's on your mind?"
+* Week 3: "And what else?"
+* Week 4: "What's the real challenge here for you?"
+* Week 5: "What do you (really) want (from me)?"
+* Week 6: "How can I help?"
+* Week 7: "If you're saying yes to this, what are you saying no to?"
+* Week 8: "What was most useful for you?"
 
-* The facilitator should follow the channel and encourage those that post.
-* The facilitator can use this channel to promote the group daily with questions including but not limited to
-  * Can anyone share an attempt to use [HABIT X]?
-  * How many times did you all use [HABIT X] yesterday?
-  * Can anyone share a challenge with using [HABIT X]?
-  * Can anyone share a success story with [HABIT X]?
+## Risks and open questions
 
-## Courses
-
-### 101 The Coaching Habit
-
-#### Schedule
-
-| Week   | Section                                                    |
-| -----  |------------------------------------------------------------|
-| 1      | Introduction                                               |
-| 2      | “What’s on your mind?”                                     |
-| 3      | “And what else?”                                           | 
-| 4      | “What’s the real challenge here for you?”                  |
-| 5      | “What do you (really) want (from me)?”                     |
-| 6      | “How can I help?”                                          |
-| 7      | “If you’re saying yes to this, what are you saying no to?” |
-| 8      | “What was most useful for you?”                            |
-
-
-### 102 Difficult Conversations
-
-#### Schedule
-
-| Week   | Section                                                    |
-| -----  |------------------------------------------------------------|
-| 1      | Introduction                                               |
-| 2      | The three types of conversation                            |
-| 3      | The learning conversation                                  |
-| 4      | Improving the feelings conversation                        |
-| 5      | Improving the identity conversation                        |
-| 6      | Tell the third story                                       |
-| 7      | Final summary                                              |
+* How do we measure success? The course won't be cheap (8 one-hour meetings per attendee, plus any non-meeting time), so how do we prove its worth?
+* Will the actual coaching conversations people have as practice be too private/confidential to be discussed openly to the rest of the cohort?
+* Is one week long enough to practice each new habit for everyone? Will that be long enough to generate discussion about how it went?
+* Leaders have full calendars. Can we find the time for a weekly one-hour workshop consistently for everyone in the cohort?
