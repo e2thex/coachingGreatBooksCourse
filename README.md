@@ -30,8 +30,7 @@ Each week the cohort will meet for a 1-hour workshop with the following agenda:
 
 ## Asynchronous Channel
 
-Each cohort should also have an asynchronous channel for discussion and shoutouts.  Something along the lines of a slack channel works best. It is recommended to use tooling that the cohort is already using.
-:w
+Each cohort should also have an asynchronous channel for discussion and shoutouts. Something along the lines of a slack channel works best. It is recommended to use tooling that the cohort is already using.
 
 ## Schedule (one chapter per week)
 
