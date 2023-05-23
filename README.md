@@ -24,10 +24,15 @@ Each cohort should ideally include 4-6 people (including the facilitator) to kee
 
 Each week the cohort will meet for a 1-hour workshop with the following agenda:
 
-* How did it go? (25 mins) -Discuss how practicing last week's habit went throughout the week, when we used it, whether it was effective, and what was challenging about it.
-* Read the next section (15 mins) -Everyone goes to their book and reads the next planned section. This fixes the "I didn't have time to read" problem.
-* How will we practice over the next week? (15 mins) - Discuss how and when we plan to practice our new habits before the next workshop. Questions or concerns about the habit we just read about can come up here.
-
+* (20 mins) How did it go? - Discuss how practicing last week's habit went throughout the week, when we used it, whether it was effective, and what was challenging about it.
+* (15 mins) Read the next section - Everyone goes to their book and reads the next planned section. This fixes the "I didn't have time to read" problem.
+* (15 mins) How will we practice over the next week? - Discuss how and when we plan to practice our new habits before the next workshop. Questions or concerns about the habit we just read about can come up here.
+* (5 mins) Us the new habit formula (below) to document habit changes we will try.
+   ```
+      When _____, 
+      instead of _____, 
+      I will _____.
+   ```
 ## Asynchronous Channel
 
 Each cohort should also have an asynchronous channel for discussion and shoutouts. Something along the lines of a slack channel works best. It is recommended to use tooling that the cohort is already using.
