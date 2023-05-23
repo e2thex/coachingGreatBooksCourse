@@ -35,13 +35,21 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 ## Schedule (one chapter per week)
 
 * Week 1: Introduction
+  * Master Class 1: Ask One Question at a Time
 * Week 2: "What's on your mind?"
+  * Master Class 2: Cut the intro and Ask the Questions
 * Week 3: "And what else?"
+  * Master Class 3: Don't Ask Rhetorical Questions
 * Week 4: "What's the real challenge here for you?"
+  * Master Class 4: Stick to the questions: Starting with What
 * Week 5: "What do you (really) want (from me)?"
+  * Master Class 5: Get Comfortable with Silence
 * Week 6: "How can I help?"
+  * Master Class 6: Actually Listen to the Answer
 * Week 7: "If you're saying yes to this, what are you saying no to?"
+  * Master Class 7: Acknowledge the Answer you get
 * Week 8: "What was most useful for you?"
+  * Master Class 8: Use Every Channel to Ask a Question
 
 ## Resources
 * Infographics: https://craigmorrowreynolds.com/the-coaching-habit-michael-bungay-stanier/
