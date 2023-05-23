@@ -43,6 +43,8 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 * Week 7: "If you're saying yes to this, what are you saying no to?"
 * Week 8: "What was most useful for you?"
 
+## Resources
+* Infographics: https://craigmorrowreynolds.com/the-coaching-habit-michael-bungay-stanier/
 ## Risks and open questions
 
 * How do we measure success? The course won't be cheap (8 one-hour meetings per attendee, plus any non-meeting time), so how do we prove its worth?
