@@ -34,6 +34,7 @@ Each week the cohort will meet for a 1-hour workshop with the following agenda:
       instead of _____, 
       I will _____.
    ```
+
 ## Asynchronous Channel
 
 Each cohort should also have an asynchronous channel for discussion and shoutouts. Something along the lines of a slack channel works best. It is recommended to use tooling that the cohort is already using.
@@ -58,12 +59,15 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
   * Master Class 8: Use Every Channel to Ask a Question
 
 ## FAQ
-### Does this involve talking about private conversations? (critter to fix)
-We have found that people are confortable discussing the how of the conversation without using names.
-### Does it fail if people can't make all the meetings?
-As long as the meeting has 3 participants things work well.  Also as long as people do not miss more than 3 total meetings things go fine.
+
+### Are conversations between coaches and coachees too private to discuss?
+We have found that people are comfortable discussing almost all coaching conversations with the group, as long as nobody is using names.
+
+### What if participants aren't able to attend all of the meetings?
+As long as the meeting has at least three participants, the format still works well. Also, as long as participants don't miss more than three total meetings, they are generally able to keep up.
+
 ## Risks and open questions
 
 * How do we measure success? The course won't be cheap (8 one-hour meetings per attendee, plus any non-meeting time), so how do we prove its worth?
 * Is one week long enough to practice each new habit for everyone? Will that be long enough to generate discussion about how it went?
-* Show the participants tell the people they are coaching that they are taking this course.
+* Should the participants tell the people they are coaching that they are taking this course? 
