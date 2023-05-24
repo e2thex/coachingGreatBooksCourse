@@ -58,6 +58,9 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 * Week 8: "What was most useful for you?"
   * Master Class 8: Use Every Channel to Ask a Question
 
+## Resources
+* Infographics: https://craigmorrowreynolds.com/the-coaching-habit-michael-bungay-stanier/
+
 ## FAQ
 
 ### Are conversations between coaches and coachees too private to discuss?
