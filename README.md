@@ -24,9 +24,16 @@ Each cohort should ideally include 4-6 people (including the facilitator) to kee
 
 Each week the cohort will meet for a 1-hour workshop with the following agenda:
 
-* How did it go? (25 mins) -Discuss how practicing last week's habit went throughout the week, when we used it, whether it was effective, and what was challenging about it.
-* Read the next section (15 mins) -Everyone goes to their book and reads the next planned section. This fixes the "I didn't have time to read" problem.
-* How will we practice over the next week? (15 mins) - Discuss how and when we plan to practice our new habits before the next workshop. Questions or concerns about the habit we just read about can come up here.
+* (~20 mins) How did it go? - Discuss how practicing last week's habit went throughout the week, when we used it, whether it was effective, and what was challenging about it.
+* (~15 mins) Read the next section - Everyone goes to their book and reads the next planned section. This fixes the "I didn't have time to read" problem.
+  * One way to facilitate this is to have everyone turn off their camera while reading and turn it back on when they are done.
+* (~15 mins) How will we practice over the next week? - Discuss how and when we plan to practice our new habits before the next workshop. Questions or concerns about the habit we just read about can come up here.
+* (~5 mins) Us the new habit formula (below) to document habit changes we will try.
+   ```
+      When _____, 
+      instead of _____, 
+      I will _____.
+   ```
 
 ## Asynchronous Channel
 
@@ -53,9 +60,17 @@ Each cohort should also have an asynchronous channel for discussion and shoutout
 
 ## Resources
 * Infographics: https://craigmorrowreynolds.com/the-coaching-habit-michael-bungay-stanier/
+
+## FAQ
+
+### Are conversations between coaches and coachees too private to discuss?
+We have found that people are comfortable discussing almost all coaching conversations with the group, as long as nobody is using names.
+
+### What if participants aren't able to attend all of the meetings?
+As long as the meeting has at least three participants, the format still works well. Also, as long as participants don't miss more than three total meetings, they are generally able to keep up.
+
 ## Risks and open questions
 
 * How do we measure success? The course won't be cheap (8 one-hour meetings per attendee, plus any non-meeting time), so how do we prove its worth?
-* Will the actual coaching conversations people have as practice be too private/confidential to be discussed openly to the rest of the cohort?
 * Is one week long enough to practice each new habit for everyone? Will that be long enough to generate discussion about how it went?
-* Leaders have full calendars. Can we find the time for a weekly one-hour workshop consistently for everyone in the cohort?
+* Should the participants tell the people they are coaching that they are taking this course? 
